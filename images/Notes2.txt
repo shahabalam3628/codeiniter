@@ -1,0 +1,11 @@
+getcomposer.org
+
+
+
+
+1.composer global require "laravel/installer=~1.1"
+  composer global require "laravel/installer"
+
+
+2.composer create-project laravel/laravel {directory}
+  composer create-project laravel/laravel
